@@ -1,0 +1,31 @@
+body{
+  background-color: Black;
+  text-align: center;
+    font-family: "Verdana";
+}
+
+h1, h2{
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.trvlg{
+  font-size: 21px;
+  color: Gray;
+}
+
+.cta{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.cpy{
+  color: Gray;
+  text-align: right;
+}
